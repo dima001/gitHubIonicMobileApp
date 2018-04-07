@@ -23,7 +23,6 @@ export class MyApp {
     public menu: MenuController,
     public statusBar: StatusBar
     ) {
-      console.log("bla");
      this.initializeApp();
  
      // set our app's pages
